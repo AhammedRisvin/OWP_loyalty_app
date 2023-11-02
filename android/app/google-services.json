@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "697755657308",
+    "project_id": "owpcloyalty-3dddc",
+    "storage_bucket": "owpcloyalty-3dddc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697755657308:android:25dafe9690cc4ed513f299",
+        "android_client_info": {
+          "package_name": "com.adamtechnologies.owp_loyalty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697755657308-itt19f6shh6a1dcguq30p24vq9au70am.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4pNstGCnqsszPA1F10NpCzPmsJG5xEaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697755657308-itt19f6shh6a1dcguq30p24vq9au70am.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
